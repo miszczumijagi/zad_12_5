@@ -1,0 +1,25 @@
+body {
+	text-align: center;
+	background: #42f4ad;
+	margin: 10% auto;
+}
+
+.trigger {
+	display:block;
+	border: 1px solid black;
+	padding: 5px 20px;
+	margin: 5% auto;
+	background-color: #04f2ea;
+	border-radius: 5px;
+}
+
+.tweet {
+	display: block;
+	border: 1px solid black;
+	padding: 5px 20px;
+	width: 15%;
+	margin: 5% auto;
+	background: #04f2ea;
+	font-weight: bold;
+	border-radius: 5px;
+}
